@@ -300,7 +300,7 @@ Czy chcesz pobrać jego instalator?</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation>Czech</translation>
+        <translation>czeski</translation>
     </message>
 </context>
 </TS>
