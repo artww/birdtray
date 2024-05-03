@@ -429,7 +429,7 @@ OpenSSL może nie być zainstalowane.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If not empty, this command will be invoked every time the unread counter changes (including when it becomes zero). It is invoked via shell, as-is, with %NEW% replaced by the new unread count value and %OLD% replaced with the old unread count value (which may be the same as new).&lt;/p&gt;&lt;p&gt;Most users don&apos;t need this functionality and should leave it empty.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jeśli niepuste, ta komenda będzie wykonywana z każdą zmianą licznika nieprzeczytanych (włącznie z wyzerowaniem). Skrypt powłoki, z %NEW% zastępowanym przez nową wartość licznika i %OLD% zastępowanym starą wartością licznika (Obie mogą być takie same).&lt;/p&gt;&lt;p&gt;Most users don&apos;t need this functionality and should leave it empty.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jeśli niepuste, ta komenda będzie wykonywana z każdą zmianą licznika nieprzeczytanych (włącznie z wyzerowaniem). Skrypt powłoki, z %NEW% zastępowanym przez nową wartość licznika i %OLD% zastępowanym starą wartością licznika (Obie mogą być takie same).&lt;/p&gt;&lt;p&gt;Większość użytkowników nie potrzebuje tej funkcjonalność i powinna pozostawić ją pustą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Check for new updates when Birdtray starts.</source>
@@ -441,11 +441,11 @@ OpenSSL może nie być zainstalowane.</translation>
     </message>
     <message>
         <source>Support non-NETWM compliant WMs</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsługa WM niezgodnych z NETWM</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If your desktop manager is not fully NETWM compliant, you may need to check this checkbox so it can detect Thunderbird window and is able to minimise and hide it.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jeśli Twój menedżer pulpitu nie jest w pełni zgodny z NETWM, może być konieczne zaznaczenie tej opcji, aby mógł wykryć, zminimalizować i ukryć okno Thunderbirda.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>At startup</source>
@@ -453,7 +453,7 @@ OpenSSL może nie być zainstalowane.</translation>
     </message>
     <message>
         <source>When hiding Thunderbird</source>
-        <translation>Podczas ukrywania Thunderbird</translation>
+        <translation>Podczas ukrywania Thunderbirda</translation>
     </message>
     <message>
         <source>When showing Thunderbird</source>
@@ -461,7 +461,7 @@ OpenSSL może nie być zainstalowane.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If enabled, this option adds the &amp;quot;Ignore currently unread emails&amp;quot; action to the context menu. This action allows you to ignore the emails which are currently unread. Birdtray would then pretend there are no unread emails left, and would only show new emails over the ignored count.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;For example, if there were 10 unread emails, and you clicked on &amp;quot;Ignore&amp;quot; action, Birdtray will show no unread email indicator as long as unread email count remains at 10. Once new email is received and you have 11 total unread emails, Birdtray will show the new email count as 1.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Włączenie tej opcji spowoduje dodanie opcji &amp;quot;Ignoruj nieprzeczytane wiadomości&amp;quot; do menu kontekstowego. Opcja ta pozwala na zignorowanie aktualnie nieprzeczytanych wiadomości, Birdtray nie będzie brał tych wiadomości pod uwagę i uwzględni jedynie nowe nieprzeczytane wiadomości.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;For example, if there were 10 unread emails, and you clicked on &amp;quot;Ignore&amp;quot; action, Birdtray will show no unread email indicator as long as unread email count remains at 10. Once new email is received and you have 11 total unread emails, Birdtray will show the new email count as 1.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Włączenie tej opcji spowoduje dodanie opcji &amp;quot;Ignoruj nieprzeczytane wiadomości&amp;quot; do menu kontekstowego. Opcja ta pozwala na zignorowanie aktualnie nieprzeczytanych wiadomości, Birdtray nie będzie brał tych wiadomości pod uwagę i uwzględni jedynie nowe nieprzeczytane wiadomości.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Na przykład, jeśli było 10 nieprzeczytanych e-maili i kliknąłeś „Ignoruj”, Birdtray nie będzie wyświetlał wskaźnika nieprzeczytanych wiadomości e-mail, dopóki liczba nieprzeczytanych wiadomości e-mail będzie wynosić 10. Jeśli otrzymasz nową wiadomośc e-mail i liczbie nieprzeczytanych wiadomości będzię wynosić 11, Birdtray wyświetli liczbę nowych wiadomości jako 1.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Start Thunderbird by clicking on the tray icon if it was closed</source>
@@ -481,7 +481,7 @@ OpenSSL może nie być zainstalowane.</translation>
     </message>
     <message>
         <source>Thunderbird process name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa procesu Thunderbirda:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -517,7 +517,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>You can also remove folders with Delete or Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz także usuwać foldery za pomocą Delete lub Backspace</translation>
     </message>
 </context>
 <context>
@@ -732,7 +732,7 @@ Upewnij się, że wybrałeś poprawny folder.</translation>
     </message>
     <message>
         <source>Snooze for ...</source>
-        <translation>Wstrzymaj na...</translation>
+        <translation>Uśpij na...</translation>
     </message>
     <message>
         <source>Unsnooze</source>
